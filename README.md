@@ -55,23 +55,11 @@
 </p>
 
 <hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
-<br>
-<p align="center">
-<a href="https://github.com/HalemoGPA/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-  
-<a href="https://github.com/HalemoGPA/HalemoGPA/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=HalemoGPA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-</p>
 
 <hr>
 -->
 <p align="center">
-  <a href="https://www.github.com/StarlordXD69" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HalemoGPA?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/StarlordXD69" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/StarlordXD69?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 
 <!--
