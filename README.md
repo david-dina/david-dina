@@ -57,7 +57,6 @@
 <hr>
 
 <hr>
--->
 <p align="center">
   <a href="https://www.github.com/StarlordXD69" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/StarlordXD69?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
