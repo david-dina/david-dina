@@ -16,7 +16,7 @@
   <br>
   💻 I love Writing code and learning anything about it 😊
   <br>
-  📚 I’m currently focusing on A.I, My current project (Music.AI)[https://www.musicaicentral.com] 🤖
+  📚 I’m currently focusing on A.I, My current project <a href="https://www.musicaicentral.com">Music.AI</a> 🤖
   <br>
   📫 How to reach me 👇
 </p>
