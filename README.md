@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Starlord;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+David;Welcome+to+my+page;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
    
@@ -12,11 +12,11 @@
   Hi, I'm David, Computer Engineer & Software Developer from Wisconsin
   <br>
   <br>
-  👨‍🎓 I'm currently in Highschool/Secondary School but I plan to be studying for a Bachelor's degree in  Computer Science
+  👨‍🎓 I'm currently in College studying for a Bachelor's degree in  Computer Science
   <br>
   💻 I love Writing code and learning anything about it 😊
   <br>
-  📚 I’m currently focusing on A.I, My current project <a href="https://www.musicaicentral.com">Music.AI</a> 🤖
+  📚 I’m currently focusing on A.I and Blockchain and their inner workings. 🤖
   <br>
   📫 How to reach me 👇
 </p>
