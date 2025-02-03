@@ -21,7 +21,7 @@
   📫 How to reach me 👇
 </p>
 <p align="center"> <a href="[https://www.linkedin.com/in/david-dina](https://www.linkedin.com/in/david-dina-681bba222/)/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:starlorddev05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-   <a href="https://twitter.com/starlordxd69"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a></p>
+  </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
