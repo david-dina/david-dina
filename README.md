@@ -49,7 +49,7 @@
 
 
 <p align="center">
-<a href="https://github.com/starlordXD69/">
+<a href="https://github.com/David-Dina/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarlordXD69&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
@@ -58,7 +58,7 @@
 
 <hr>
 <p align="center">
-  <a href="https://www.github.com/StarlordXD69" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/StarlordXD69?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/David-Dina" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/David-Dina?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 
 <!--
