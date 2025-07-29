@@ -61,6 +61,22 @@
   <a href="https://www.github.com/David-Dina" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/David-Dina?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-07-29T21:02:12.861Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x3943C0E3e5FF201cEB6774303Cdb348af99891aD"
+    },
+    {
+      "chain": "solana",
+      "address": "HANzK5XYQMSsTfb5vEzkpFMRuZJRz5jbeZ3d5DMedEoX"
+    }
+  ]
+}
+WALLET-LINKING-END -->
+
 <!--
 **starlordXD69/starlordXD69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
